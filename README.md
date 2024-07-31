@@ -1,6 +1,3 @@
-To create a README.md file for your project, it's helpful to include sections like a project title, description, features, installation instructions, usage, and more. Here's a draft based on the information available:
-
----
 
 # Login Page
 
