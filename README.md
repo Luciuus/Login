@@ -1,7 +1,7 @@
 
 # Login Page
 
-A simple and responsive login page built with HTML, CSS, and JavaScript.
+A simple and responsive login page built with HTML, CSS.
 
 ## Demo
 
@@ -17,7 +17,6 @@ A simple and responsive login page built with HTML, CSS, and JavaScript.
 
 - **HTML5:** Markup structure of the page.
 - **CSS3:** Styling and layout.
-- **JavaScript:** Interactive elements and form validation.
 
 ## Installation
 
